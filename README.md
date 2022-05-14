@@ -28,9 +28,13 @@ For modelling we tried various classification algorithms like:
 **Conclusion**
 
 ●	The dataset has 25 features and 30000 records without any missing or duplicated value. But, it has many outliers which were treated using IQR method.
+
 ●	The dataset was pretty clean but had imbalanced data which was balanced using SMOTE (Synthetic Minority Oversampling Technique) resampling.
+
 ●	EDA was performed to understand the data clearly and finding correlations, like defaulter as per different categories, total bills, reason of negative bill etc. and important features were identified using extraclassifier and ANOVA test.
+
 ●	Logistic Regression, Decision Trees, Random Forest algorithms were implemented which were evaluated using ‘Recall’ score.
+
 ●	Even after applying SMOTE, there was imbalance in score as well. Logistic Regression had performed well comparatively with recall score of about 83% for class 0 and 56% for class 1. There is scope of furthur optimization.
 
 
