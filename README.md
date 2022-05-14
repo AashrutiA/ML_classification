@@ -26,6 +26,7 @@ For modelling we tried various classification algorithms like:
 4.	KNN Classifier
 
 **Conclusion**
+
 ●	The dataset has 25 features and 30000 records without any missing or duplicated value. But, it has many outliers which were treated using IQR method.
 ●	The dataset was pretty clean but had imbalanced data which was balanced using SMOTE (Synthetic Minority Oversampling Technique) resampling.
 ●	EDA was performed to understand the data clearly and finding correlations, like defaulter as per different categories, total bills, reason of negative bill etc. and important features were identified using extraclassifier and ANOVA test.
