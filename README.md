@@ -1,2 +1,2 @@
 # ML_classification
-This repo has machine learning classification problem solved using different classification algorithms
+Credit cards are one of the key business areas within the banking industry, and have gained huge success in the past few years. Banks often issue credit cards to ineligible customers without sufficient background checks in an effort to increase their market share. Additionally, many customers overused their credit cards, resulting in high debt accumulation. One of the biggest challenges banks face is identifying risks and non-risks among customers. So, the problem we are trying to analyze is how to identify the risky and non-risky customers, helping the bank to decide if a customer has the potential to repay the used credit of the bank.
