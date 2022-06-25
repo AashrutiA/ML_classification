@@ -1,6 +1,10 @@
-# Credit Card Default Prediction
+# <p align ="center"> Credit Card Default Prediction </p>
 
-![ccc](https://user-images.githubusercontent.com/101988419/175786661-5cf93791-d1bb-4c24-8c5d-6b3ff4286848.gif) 
+<center><img src="https://user-images.githubusercontent.com/101988419/175786661-5cf93791-d1bb-4c24-8c5d-6b3ff4286848.gif"
+     class="centerImage"
+     width="1000"
+     height="400" </center>
+   
 
 
 ## 1. **Business Problem**
