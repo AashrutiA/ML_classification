@@ -1,9 +1,9 @@
 # <p align ="center"> Credit Card Default Prediction </p>
 
-<center><img src="https://user-images.githubusercontent.com/101988419/175786661-5cf93791-d1bb-4c24-8c5d-6b3ff4286848.gif"
+<p align ="center"><img src="https://user-images.githubusercontent.com/101988419/175786661-5cf93791-d1bb-4c24-8c5d-6b3ff4286848.gif"
      class="centerImage"
-     width="1000"
-     height="400" </center>
+     width="500"
+     height="300" </p>
    
 
 
